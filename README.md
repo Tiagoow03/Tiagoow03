@@ -4,13 +4,13 @@
 
 <br>
 <br>
-👋 Olá! Sou Tiago Ponte! <br>
+👋 Hello! I'm Tiago Ponte! <br>
 <br>
-Formando em Sistema da Informação pela Universidade Estácio de Sá.
+Graduated in Information System from Estácio de Sá University.
 <br><br>
-Atualmente estou focado em desenvolvimento Front-End com experiência profissional em Flutter | Dart.
+Currently i am focused on Front-End development with professional experience in Flutter | Dart.
 <br><br>
-Me siga nas redes para acompanhar o meu progresso:
+Follow me on the networks to track my progress:
 <br>
 <p align="center">
   <a href="https://github.com/Tiagoow03" alt="GitHub">
