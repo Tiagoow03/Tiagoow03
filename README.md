@@ -1,18 +1,33 @@
-<p align="center">
-  <a href="https://github.com/Tiagoow03" alt="GitHub">
-    <img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/tiagooliveiratt/" alt="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
-</p>
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Tiago%2C+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Tiago Welcome to my Profile! animated typed out">
-<img  src="assests/borderseperator.gif">
-<h3> Hello! I'm Tiago Ponte! 👋 </h3>
-Graduated in Information System from Estácio de Sá University.
-<br>
-Currently i am focused on Front-End development with professional experience in Flutter | Dart.
-<h2>Status</h2>
+## Tiago Ponte de Oliveira
+
+**Mobile Engineer · Flutter & Dart**
+
+I build and maintain Flutter apps in production. Today I work on a
+multi-tenant mobile platform in a Melos monorepo with a plugin-based
+architecture, serving storefronts for multiple clients from a shared core.
+
+I care about the unglamorous parts: network failures, intermediate states,
+and the bugs that only show up with real users.
+
+Currently working with generative AI and agents inside mobile apps, including
+RAG with embeddings and vector search.
+
+### Stack
+
+**Mobile** · Flutter, Dart, BLoC/Cubit, Riverpod, MobX, GetIt, GoRouter, Melos  
+**Architecture** · Clean Architecture, modular monorepo, MVVM, DDD, SOLID, design systems  
+**Native** · Kotlin, Swift, platform channels  
+**AI** · LLM integration, agents and tools, RAG, embeddings, vector databases  
+**Backend** · Python, Node.js, Java, C#/.NET, PostgreSQL, Supabase  
+**Infra** · Docker, Kubernetes, GitHub Actions, Azure DevOps, Codemagic  
+
+### Projects
+
+Coming soon.
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/tiagooliveiratt/) · tiagooliveira9007@gmail.com
 
 |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tiagoow03&theme=apprentice)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tiagoow03&theme=apprentice)|
 |---|---|
